@@ -48,7 +48,7 @@ public class JavaConfiguration {
 	private String nameJug;
 
 	@Inject
-	@ConfigProperty(name="org.jug.site.url", defaultValue="http://soujava.or.br")
+	@ConfigProperty(name="org.jug.site.url", defaultValue="http://soujava.org.br")
 	private String siteURL;
 
 	@Inject
