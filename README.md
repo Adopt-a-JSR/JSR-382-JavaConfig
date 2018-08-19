@@ -3,8 +3,8 @@
 ## Projects
 Project         | description
 --------------- | -------------
-[SimpleDependencyInjection](https://github.com/SouJava-Rio/soujava-rio-labs/tree/master/JSR-382-JavaConfig/SimpleDependencyInjection/javaconfig) | Simple Dependency Injection
-[SimpleProgrammatic](https://github.com/SouJava-Rio/soujava-rio-labs/tree/master/JSR-382-JavaConfig/SimpleProgrammatic/javaconfig) | Simple Programmatic 
+[SimpleDependencyInjection](https://github.com/Adopt-a-JSR/JSR-382-JavaConfig/tree/master/SimpleDependencyInjection/javaconfig) | Simple Dependency Injection
+[SimpleProgrammatic](https://github.com/Adopt-a-JSR/JSR-382-JavaConfig/tree/master/SimpleProgrammatic/javaconfig) | Simple Programmatic 
 
 ## informative links
 
